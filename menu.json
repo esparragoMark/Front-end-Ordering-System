@@ -1,0 +1,213 @@
+[
+  { "id": 1,
+    "name": "Pecho",
+    "price": 149.00,
+    "image": "images/products/TSM-pecho-2.webp"
+  },
+  { "id": 2,
+     "name": "Paa",
+      "price": 139.00,
+       "image": "images/products/TSM-PAA-2.webp"
+  },
+  { "id": 3,
+    "name": "Sizzling Liempo",
+    "price": 250.00,
+    "image": "images/products/Sizzling-Liempo.png" 
+  },
+  { "id": 4,
+    "name": "Pork Sisig Family Size",
+    "price": 159.00,
+    "image": "images/products/Pork-Sisig-Family-Size-edited.png" 
+  },
+  { "id": 5,
+     "name": "Pork Sisig",
+    "price": 190.00,
+    "image": "images/products/Pork-Sisig.png" 
+  },
+  { "id": 6,
+    "name": "Pork Liempo & Chicken Inasal",
+    "price": 200.00,
+    "image": "images/products/Pork-Liempo-and-Chicken-Inasal-Family-Fiesta-400x255-1.webp" 
+  },
+  { "id": 7,
+    "name": "Pork BBQ Family Size",
+    "price": 50.00,
+    "image": "images/products/Pork-BBQ-Family-Size.webp" 
+  },
+  { "id": 8,
+    "name": "Pork BBQ Buddy Size",
+    "price": 100.00,
+    "image": "images/products/Pork-BBQ-Buddy-Size-400x255-1.png" 
+  },
+  { "id": 9,
+    "name": "Pork BBQ & Chicken Inasal Family Fiesta",
+    "price": 159.00,
+    "image": "images/products/Pork-BBQ-and-Chicken-Inasal-Family-Fiesta.webp" 
+  },
+  { "id": 10,
+    "name": "Pork BBQ",
+    "price": 169.00,
+    "image": "images/products/pork-bbq-400x255-2.webp" 
+  },
+  { "id": 11,
+    "name": "Pecho Large",
+    "price": 229.00,
+    "image": "images/products/Pecho-Large-PM2.webp" 
+  },
+  { "id": 12,
+    "name": "Pecho Large Buddy Size",
+    "price": 290.00,
+    "image": "images/products/Pecho-Large-Buddy-Size.webp" 
+  },
+  { "id": 13,
+    "name": "Palabok & 1pc BBQ",
+    "price": 60.00,
+    "image": "images/products/Palabok-with-1-pc-Pork-BBQ.png" 
+  },
+  { "id": 14,
+    "name": "Palabok Party Size",
+    "price": 120.00,
+    "image": "images/products/Palabok-party-size.png" 
+  },
+  { "id": 15,
+    "name": "Palabok & Chicken Inasal",
+    "price": 160.00,
+    "image": "images/products/Palabok-and-Chicken-Inasal.webp" 
+  },
+  { "id": 16,
+    "name": "Palabok",
+    "price": 60.00,
+    "image": "images/products/palabok.png" 
+  },
+  { "id": 17,
+    "name": "Paa Large Family Size",
+    "price": 250.00,
+    "image": "images/products/Paa-Large-Family-Size-400x255-img.webp" 
+  },
+  { "id": 18,
+    "name": "Paa Large Buddy Size",
+    "price": 300.00,
+    "image": "images/products/Paa-Large-Buddy-Size1500x1500px-2.png" 
+  },
+  { "id": 19,
+    "name": "Paa Large",
+    "price": 80.00,
+    "image": "images/products/Paa-large-400x255-1.webp" 
+  },
+  { "id": 20,
+    "name": "Grilled Liempo Fam Size",
+    "price": 260.00,
+    "image": "images/products/Grilled-Liempo-Family-Size.webp" 
+  },
+  { "id": 21,
+    "name": "Grilled Liempo Buddy Size",
+    "price": 200.00,
+    "image": "images/products/Grilled-Liempo-Buddy-Size.png" 
+  },
+  { "id": 22,
+    "name": "Grilled Liempo",
+    "price": 60.00,
+    "image": "images/products/Grilled-Liempo.webp" 
+  },
+  { "id": 23,
+    "name": "Fiesta Meal",
+    "price": 220.00,
+    "image": "images/products/Fiesta-meal.png" 
+  },
+  { "id": 24,
+    "name": "Solo Fiesta Paa",
+    "price": 130.00,
+    "image": "images/products/Featured-Image-Thumbnails-400x255-Solo-Fiesta-Paa.webp" 
+  },
+  { "id": 25,
+    "name": "Solo Fiesta BBQ",
+    "price": 60.00,
+    "image": "images/products/Featured-Image-Thumbnails-400x255-Solo-Fiesta-BBQ.webp" 
+  },
+  { "id": 26,
+    "name": "Solo Fiesta Paa BBQ",
+    "price": 60.00,
+    "image": "images/products/Desktop-Mobile-Thumbnails-400x225-Solo-Fiesta-Paa-BBQ.webp" 
+  },
+  { "id": 27,
+    "name": "Extra Creany Halo-Halo",
+    "price": 90.00,
+    "image": "images/products/Extra-Creamy-Halo-Halo.png" 
+  },
+  { "id": 28,
+    "name": "Crema de Leche Small",
+    "price": 120.00,
+    "image": "images/products/Crema-de-Leche-Small.png" 
+  },
+  { "id": 29,
+    "name": "Chicken Inasal Regular",
+    "price": 100.00,
+    "image": "images/products/chicken-insal-regular-3.webp" 
+  },
+  { "id": 30,
+    "name": "Chicken Inasal Regular Fam Size",
+    "price": 230.00,
+    "image": "images/products/Chicken-Inasal-Regular-Family-Size.webp" 
+  },
+  { "id": 31,
+    "name": "Chicken Grilled Liempo Buddy Fiesta",
+    "price": 390.00,
+    "image": "images/products/Chicken-Grilled-Liempo-Buddy-Fiesta.webp" 
+  },
+  { "id": 32,
+    "name": "Chicken BBQ Buddy Fiesta",
+    "price": 310.00,
+    "image": "images/products/Chicken-BBQ-Buddy-Fiesta.webp" 
+  },
+  { "id": 33,
+    "name": "BBQ Grilled Liempo Buddy Fiesta",
+    "price": 350.00,
+    "image": "images/products/BBQ-Grilled-Liempo-Buddy-Fiesta.webp" 
+  },
+  { "id": 34,
+    "name": "Bangus- Sisig Family Size",
+    "price": 300.00,
+    "image": "images/products/Bangus-Sisig-Family-Size.png" 
+  },
+  { "id": 35,
+    "name": "Bangus- Sisig",
+    "price": 200.00,
+    "image": "images/products/Bangus-Sisig.png" 
+  },
+  { "id": 36,
+    "name": "All Pork family fiesta",
+    "price": 290.00,
+    "image": "images/products/all-pork-family-fiesta-400x255-1.png" 
+  },
+  { "id": 37,
+    "name": "All Chicken Inasal Buddy Fiesta",
+    "price": 250.00,
+    "image": "images/products/All-Chicken-Inasal-Buddy-Fiesta.webp" 
+  },
+  { "id": 38,
+    "name": "All Chicken Family Fiesta",
+    "price": 210.00,
+    "image": "images/products/All-Chicken-Family-Fiesta.png" 
+  },
+  { "id": 39,
+    "name": "2pc Pork BBQ with Spiced Vinegar",
+    "price": 199.00,
+    "image": "images/products/2-pc-Pork-BBQ-with-Spiced-Vinegar-2.webp" 
+  },
+  { "id": 40,
+    "name": "2pc Pork BBQ with Peanut Sauce",
+    "price": 140.00,
+    "image": "images/products/2-pc-Pork-BBQ-with-Peanut-Sauce-3.webp" 
+  },
+  { "id": 41,
+    "name": "1pc Pork BBQ Ala Carte",
+    "price": 260.00,
+    "image": "images/products/1-pc-Pork-BBQ-Ala-Carte-new-img-2-edited.png" 
+  },
+  { "id": 42,
+    "name": "1pc Lumpiang Togue",
+    "price": 100.00,
+    "image": "images/products/1pc-Lumpiang-Togue-400x225-1.webp" 
+  }
+
+]
